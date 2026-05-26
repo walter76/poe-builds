@@ -44,3 +44,5 @@ Shield Wall Nerf:
   drop or buy from the vendor. **You're not looking to use any resources on this
   bow,** as you want to make a 6 mod Recurve Bow at lvl 16 with 2 sockets. So
   save your artificers orb, exalts, regals and alchemy orbs.
+- Helmet/belt/amulet are good slots to acquire attributes (str on belt, dex or
+  int on helmet)
