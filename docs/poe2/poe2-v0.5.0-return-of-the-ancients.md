@@ -46,3 +46,6 @@ Shield Wall Nerf:
   save your artificers orb, exalts, regals and alchemy orbs.
 - Helmet/belt/amulet are good slots to acquire attributes (str on belt, dex or
   int on helmet)
+- For the *Recurve Bow* look for high DPS, flat lightning damage and attack 
+  speed. As Runes use *Lesser Storm Rune* and *Lesser Glacial Rune*. **Be
+  careful to not use a Essence that is too high and making your bow unusable.
