@@ -23,16 +23,43 @@ Shield Wall Nerf:
 
 #### Gem Engraving Priority
 
-| **Act** | **Active** | **Supports** | **Spirit** |
-|---------|------------|--------------|------------|
-| **Act I** | 1. Lightning Arrow | 1. Rapid Attacks I | Herald of Thunder |
-|           |                    | 2. Elemental Armament I | 4. Concentrated Area |
-|           | 1. Lightning Rod | 3. Concentrated Area | |
-|           |                  | 5. Elemental Armament I | |
-|           | Frost Bomb | | |
-|           | Barrage | | |
-|           | Ice-Tipped Arrows | | |
-|           | Pounce | | |
+| **Level** | **Active** | **Supports** |
+|-----------|------------|--------------|
+| **1-14** | 1. Lightning Arrow | 1. Rapid Attacks I |
+| | | 2. Elemental Armament I |
+| | 2. Lightning Rod | 3. Concentrated Area |
+| | | 5. Elemental Armament I |
+| | 3. Frost Bomb | |
+| | 4. Herald of Thunder *(Spirit)* | 4. Concentrated Area |
+| | 5. Barrage | |
+| | 6. Ice-Tipped Arrows | |
+| | 7. Pounce | |
+| **15-23** | 1. Lightning Arrow | 1. Rapid Attacks I |
+| | | 2. Elemental Armament I |
+| | 2. Lightning Rod | 3. Concentrated Area |
+| | | 5. Elemental Armament I |
+| | 3. Frost Bomb | |
+| | 4. Herald of Thunder *(Spirit)* | 4. Concentrated Area |
+| | | **6. Elemental Armament I** |
+| | 5. Barrage | |
+| | 6. Ice-Tipped Arrows | **7. Magnified Area I** |
+| | 7. Pounce | |
+| **24-30** | 1. Lightning Arrow | 1. Rapid Attacks I |
+| | | 2. Elemental Armament I |
+| Remove Lightning Rod | **2. Snipe** | 3. Concentrated Area |
+| | | 5. Elemental Armament I |
+| | | **12. Window of Opportunity** |
+| | **3. Freezing Mark** | **8. Prolonged Duration I** |
+| | 4. Herald of Thunder *(Spirit)* | 4. Concentrated Area |
+| | | 6. Elemental Armament I |
+| | 5. Barrage | |
+| | 6. Ice-Tipped Arrows | 7. Magnified Area I |
+| | | **9. Elemental Armament I** |
+| Remove Pounce | **7. Freezing Salvo** | **10. Freeze** |
+| | | **11. Concentrated Area** |
+| | 8. Frost Bomb | |
+
+- **Window of Opportunity** support gem for **Snipe** only do it once you have mastered the timing of Snipe.
 
 #### Gear / Items
 
