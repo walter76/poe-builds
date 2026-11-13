@@ -28,5 +28,8 @@ information. Knowledge is stored as plain markdown, one concept per file.
 
 ## Maintenance rules
 - When you add a concept/note, add a link to it from any related concept/note.
+- When you add, rename or remove a concept/note, update the `index.md` in the same folder. Create the `index.md` if
+  it does not exist. Each entry is a bullet link with the note's frontmatter description, for example
+  `* [Title](file-name.md) - Description`. Index files have no frontmatter.
 - Prefer editing an existing concept/note over creating a duplicate.
 - If you are unsure whether two concepts/notes are the same, ask the user.
