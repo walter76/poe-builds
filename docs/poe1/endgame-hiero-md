@@ -1,0 +1,50 @@
+# Path of Exile: Templar Hierophant Build & Progression Guide
+
+## 1. Character & Build Context
+* **Class/Ascendancy:** Templar Hierophant (6/8 Ascendancy points allocated)
+* **Current Level:** 76
+* **Current Progression:** Map Tier 4 (Transitioning from White to Yellow Maps)
+* **Main Skill:** Kinetic Fusillade Ballista Totem
+
+---
+
+## 2. Core Build Mechanics & Breakpoints
+### The "Gatling Gun" Attack Speed Constraint
+Kinetic Fusillade requires careful management of attack speed versus skill duration to avoid canceling totem attack sequences.
+* **The Rule:** Ballista Totem **Attack Time** must be *longer* than the total **Projectile Duration**.
+* **The Fix:** Always run **Less Duration Support**. Do not stack excessive attack speed on gear/passives. The inherent 50% less attack speed penalty from Ballista Totem Support naturally helps maintain this balance.
+
+### Core Gem Links (4-Link to 5-Link Transition)
+* **4-Link Setup (Current Baseline):**
+  `Kinetic Fusillade` ➔ `Ballista Totem` ➔ `Less Duration` ➔ `Greater Volley`
+* **5-Link Upgrade (Priority for T6+):**
+  Add `Elemental Damage with Attacks Support` (massive flat damage multiplier).
+
+---
+
+## 3. Gear & Item Level (ilvl) Breakpoints
+Maps drop specific item levels (Map Tier + 67 = Item Level). Focus on the following breakpoints as you push higher tiers:
+
+* **ilvl 68 (Tier 1+):** Drops mid-tier Life and moderate Resistance bases.
+* **ilvl 73–75 (Tier 6–8):** Unlocks higher-tier hybrid defense stats and major resistance rolls.
+* **ilvl 84–86 (Tier 17+ / Specialized T16):** Unlocks Tier 1 affixes (max life, top hybrid defenses, ideal cluster jewels).
+
+### Immediate Gear Stats to Look For (ilvl 68–72 Bases)
+* **Wand:** Scales off flat elemental damage (Fire, Cold, Lightning). Do **not** look for "+# to level of spell skills". *Note: % Increased Spell Damage still functions and scales powerfully.*
+* **Jewelry & Gloves:** Prioritize flat added elemental damage to attacks. (Target the *Prismweave* unique belt for an early, cheap DPS boost).
+* **Defenses:** Cap elemental resistances at 75%. Prioritize **Armor / Energy Shield** bases to synergyze with *Mind Over Matter* and *Determination*.
+
+---
+
+## 4. Atlas Map Progression Requirements
+* **Tier 1–5 (White Maps):** Run as **Magic** (at least 1 modifier) for Atlas completion.
+* **Tier 6–10 (Yellow Maps):** Must run as **Rare** (Alch and Go / 3+ modifiers) for completion.
+  * *Dangerous Mods to Avoid:* "Players have #% less Accuracy Rating" (destroys hit chance) and "Monsters reflect #% of Elemental Damage".
+* **Tier 11–16 (Red Maps):** Must run as **Corrupted Rare** (Vaal Orb / 3+ modifiers + corrupted) for completion.
+
+---
+
+## 5. Immediate Next Steps
+1. **Push Map Tiers:** Continue running maps and advancing tiers linearly until your damage or survivability naturally hits a wall.
+2. **Watch for 5-Link Chests:** Identify rare Armor/ES bases or apply Orbs of Fusing to upgrade your main skill setup.
+3. **Eternal Labyrinth (Level 80+):** Collect *Offering to the Goddess* items to unlock the final 2 Ascendancy points. Allocating **Conviction of Power** is highly recommended to easily secure 4 Minimum Endurance and Power Charges for physical mitigation and crit chance.
