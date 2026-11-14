@@ -5,7 +5,8 @@
   everything).
 - __Use a Regex at the vendor for the build__
 - __Use a loot filter for the build,__ hide loot you do not need. Stay focused. 
-  [FilterBlade - PoE 2](https://www.filterblade.xyz/?game=Poe2)
+  [FilterBlade - PoE 2](https://www.filterblade.xyz/?game=Poe2). See
+  [[loot-filter-controls]] for the hotkeys to show/hide filtered item labels.
 - __Always keep the weapon upgraded,__ max resistances and life when possible.
 - __Good enough is better than optimized.__
 - Zone pathing order + **what to skip / come back to**
